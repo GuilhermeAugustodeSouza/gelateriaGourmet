@@ -1,0 +1,11 @@
+.containerSobre{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+.containerSobre h1{
+    position: absolute;
+    color: #ffffff;
+    font-size: 50px;
+    text-shadow: 3px 3px 2px gray;
+  }

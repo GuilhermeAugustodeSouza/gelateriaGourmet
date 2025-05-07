@@ -1,0 +1,33 @@
+.containerTopo{
+    display: flex;
+       background-color: #F9DB79;
+    width:100%;
+    padding:0px 20px;
+
+}
+.containerTopo img{
+    width:100px;
+    height:100px;
+   
+}
+.containerTopo nav{
+  display: flex;
+margin-left: auto;
+ align-items: center;
+    padding:20px 0px;
+    gap:40px;
+ 
+}
+.containerTopo nav a{
+color:#000000;
+    font-size:18px;  
+    text-decoration: none;
+}
+@media (max-width:430px){
+.containerTopo nav{
+flex-direction: column;
+   margin:auto;
+    gap:10px;
+    
+}
+}

@@ -1,0 +1,19 @@
+.containerMainHome{
+    display:flex;
+    flex-wrap:wrap;
+
+
+}
+.containerMainHome spam{
+    font-style: italic;
+    font-weight: bold ;
+}
+.containerMainHome img{
+    width:50%;
+   height: auto;
+}
+.containerMainHome section{
+    width:50%;
+    padding:40px;
+  
+}

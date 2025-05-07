@@ -1,0 +1,17 @@
+
+.containerSabores{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerSabores h1{
+    position: absolute;
+    color: #ffffff;
+    font-size: 50px;
+    text-shadow: 3px 3px 2px gray;
+  }
+.containerSabores img{
+    width:100vw;
+
+}
