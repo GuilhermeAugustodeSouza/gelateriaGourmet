@@ -12,6 +12,39 @@
     text-shadow: 3px 3px 2px gray;
   }
 .containerSabores img{
-    width:100vw;
+    width:100%;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+background-repeat: no-repeat;
+}
+.MainSabores{
+    display:flex;
+    align-items:center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap:40px;
+    padding:100px;
+}
+.MainSabores h2{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+     text-align: center;
+     color:red;
 
+}
+.MainSabores section{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding:10px;
+    width:50%;
+    height:auto;
+
+box-shadow: 2px 2px 3px gray;
+}
+.MainSabores img{
+    width:200px;
+    height:150px;
 }
