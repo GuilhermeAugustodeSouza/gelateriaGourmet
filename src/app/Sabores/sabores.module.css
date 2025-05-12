@@ -16,30 +16,30 @@
   
 }
 .MainSabores{
+    width:100%;
     display:flex;
-    align-items:center;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    gap:40px;
-    padding:100px;
+    flex-direction: column;
+ align-items: center;
+    gap:20px;
+    padding:100px 20px;
 }
 .MainSabores h2{
-    display:flex;
-    align-items: center;
-    justify-content:center;
-     text-align: center;
-     color:red;
+ 
+   font-size:30px;
+   font-weight:600;
 
 }
 .MainSabores section{
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    padding:10px;
-    width:50%;
-    height:auto;
-
-box-shadow: 2px 2px 3px gray;
+     flex: 1 1 300px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 10px;
+  line-height: 26px;
+  border-radius: 4px ;
+  box-shadow: 2px 2px 15px 2px #d9dde1;
+   
 }
 .MainSabores img{
     width:200px;
