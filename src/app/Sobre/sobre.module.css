@@ -9,3 +9,24 @@
     font-size: 50px;
     text-shadow: 3px 5px 2px #474747;
   }
+.containerMain{
+display:flex;
+flex-direction: column;
+flex-wrap: wrap;
+width:100%;
+align-items: center;
+justify-content: center;
+padding:90px 40px;
+gap:40px;
+
+}
+.containerImgs{
+     width:100%;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.containerImgs img{
+    width:50%;
+    height:100vh;
+   ;
+}

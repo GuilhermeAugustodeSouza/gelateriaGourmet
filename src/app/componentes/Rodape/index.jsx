@@ -10,13 +10,13 @@ export default function Rodape() {
 
       <section>
         <h2>Endereço</h2>
-        <p>Av. Bernardino de Campos 98, São Paulo-Sp 12345-678</p>
+        <p>Av.Francisco deslandes 98, Belo horizonte 30345-678</p>
       </section>
 
       <section>
         <h2> Contato</h2>
         <p> inf@meusite.com</p>
-        <p>Tel (11)3456-7890</p>
+        <p>Tel (31)3456-7890</p>
       </section>
 
       <section>
@@ -24,7 +24,7 @@ export default function Rodape() {
         <p>Aberto todos os dias / 10:00 ás 22:00</p>
       </section>
 <div>   
-   <p>Gelateria orgulhososamente desenvolvido por 'nome do desenvolvedor'</p>
+   <p>Gelateria orgulhososamente desenvolvido por Guilherme Goudinho</p>
 </div>
   
       
