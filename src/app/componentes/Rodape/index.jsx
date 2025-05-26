@@ -24,7 +24,7 @@ export default function Rodape() {
         <p>Aberto todos os dias / 10:00 ás 22:00</p>
       </section>
 <div>   
-   <p>Gelateria orgulhososamente desenvolvido por<Link href='https://mypageguilherme34.vercel.app' target='_blank' rel='noopener noreferrer'>Guilherme Goudinho</Link> </p>
+   <p>Gelateria orgulhosamente desenvolvido por<Link href='https://mypageguilherme34.vercel.app' target='_blank' rel='noopener noreferrer'>Guilherme Goudinho</Link> </p>
 </div>
   
       
