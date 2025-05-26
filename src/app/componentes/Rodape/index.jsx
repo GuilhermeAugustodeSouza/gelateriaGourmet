@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Logo from '../../../../public/logo.png'
 import estilos from './Rodape.module.css'
-
+import Link from 'next/link';
 export default function Rodape() {
   return (
 
@@ -24,7 +24,7 @@ export default function Rodape() {
         <p>Aberto todos os dias / 10:00 ás 22:00</p>
       </section>
 <div>   
-   <p>Gelateria orgulhososamente desenvolvido por Guilherme Goudinho</p>
+   <p>Gelateria orgulhososamente desenvolvido por<Link href='https://mypageguilherme34.vercel.app' target='_blank' rel='noopener noreferrer'>Guilherme Goudinho</Link> </p>
 </div>
   
       

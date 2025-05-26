@@ -58,3 +58,8 @@
   height: 250px;
   object-fit: contain;
 }
+@media(max-width:470px){
+  .containerImgBanner h1{
+    text-align:center;
+  }
+}

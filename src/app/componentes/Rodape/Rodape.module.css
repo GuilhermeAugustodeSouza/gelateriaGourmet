@@ -8,6 +8,7 @@
   width: 100%;
   padding: 100px 20px 0 20px;
   gap:10px;
+  cursor: pointer;
 }
 .containerRodape img {
   width: 100px;
@@ -35,4 +36,20 @@ margin-top:20px;
     width: 100%;
   padding: 5px;
   font-size: 14px;
+}
+.containerRodape div p{
+font-size:12px;
+
+}
+.containerRodape div p a{
+  text-decoration: none;
+  margin-left: 3px;
+  color:rgba(220, 234, 229, 0.25);
+  font-style: italic;
+}
+
+@media(max-width:513px){
+.containerRodape section {
+ flex:1;
+}
 }
